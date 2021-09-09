@@ -11,6 +11,9 @@ header{
     clear: both;
     display: table;
 }
+H1{
+    text-align: center;
+}
 
 .menu{
     width: 1400px;
